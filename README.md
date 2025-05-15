@@ -1,5 +1,5 @@
 # About Me:
-## Hi 👋, _I'm Aryaman Khadilkar_
+## Hi 👋, _I'm Aryaman Khadilkar..._
 ### **<br>Data Science Enthusiast | Passionate about Machine Learning, AI, and Data Analytics | Exploring the world of data to uncover.<br><br>** 
 
 - 🔭 I’m currently working on Self Projects<br><br>
