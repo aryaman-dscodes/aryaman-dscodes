@@ -1,11 +1,6 @@
-# Hii 👋, _I'm Aryaman Khadilkar..._
-### **<br>Data Science Enthusiast | Passionate about Machine Learning, AI, and Data Analytics | Exploring the world of data to uncover.<br><br>** 
-
-- 🔭 I’m currently working on Self Projects<br><br>
-- 🌱 I’m currently learning ML,DL<br><br>
-- 💬 Ask me about Python, MySql, Power BI,<br><br>
-- 📫 Email :- aryamankhadilkar33@gmail.com<br><br>
-- 🚀 Current Goals - Building real-world ML projects
+# Hi, I’m Aryaman Khadilkar.
+## _Welcome to my GitHub profile, where I showcase my work, projects, and continuous learning journey in Data Science, Machine Learning, and Analytics._
+<br><br>I am a Data Science enthusiast with a strong passion for Machine Learning, Artificial Intelligence, and Data Analytics. I am deeply interested in exploring data to uncover hidden patterns, generate meaningful insights, and develop intelligent solutions that can solve real-world problems. My journey in data science is driven by curiosity, continuous learning, and the desire to transform data into impactful outcomes.<br><br>Currently, I am working as a Data Science Intern at Cognifyz Technologies, where I am gaining hands-on experience in data analysis, preprocessing, visualization, and applying machine learning concepts to practical projects. This experience is helping me strengthen both my technical foundation and problem-solving approach while working with real datasets and industry-relevant tools.<br><br>I primarily work with Python for data analysis and machine learning tasks, along with MySQL for database management and Power BI for data visualization and reporting. I enjoy building projects that combine analytical thinking with practical implementation, and I continuously focus on improving my skills in Machine Learning and Deep Learning through self-driven learning and experimentation.<br><br>My goal is to grow into a proficient Data Scientist by developing real-world solutions, contributing to meaningful projects, and continuously expanding my knowledge in emerging technologies within the data ecosystem. I am always open to collaboration, learning opportunities, and discussions related to data science, analytics, and innovative technologies.
 
 
 ## 🌐 Socials:
@@ -18,8 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=aryaman-dscodes&theme=holi&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaman-dscodes&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aryaman-dscodes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aryaman-dscodes&limit=5&theme=holi&combine_all_yearly_contributions=true)
